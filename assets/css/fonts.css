@@ -1,0 +1,73 @@
+ @font-face{
+    font-family: Caustent ;
+    src: url(/assets/fonts/Causten/Causten\ Black.ttf);
+ }
+ @font-face {
+    font-family: Coresanc;
+    src: url(/assets/fonts/Demo_Fonts/Fontspring-DEMO-coresansc15.otf);
+ }
+ @font-face{
+    font-family: Caustent1 ;
+    src: url(/assets/fonts/Causten/Causten\ Extra\ Bold.ttf);
+ }
+ @font-face {
+    font-family: Coresanc1;
+    src: url(/assets/fonts/Demo_Fonts/Fontspring-DEMO-coresansc25.otf);
+ }
+ @font-face{
+    font-family: Caustent2 ;
+    src: url(/assets/fonts/Causten/Causten\ Medium.ttf);
+ }
+ @font-face {
+    font-family: Coresanc2;
+    src: url(/assets/fonts/Demo_Fonts/Fontspring-DEMO-coresansc35.otf);
+ }
+ @font-face{
+    font-family: Caustent3 ;
+    src: url(/assets/fonts/Causten/Causten\ Regular.ttf);
+ }
+ @font-face {
+    font-family: Coresanc3;
+    src: url(/assets/fonts/Demo_Fonts/Fontspring-DEMO-coresansc45.otf);
+ }
+ @font-face {
+   font-family: CoresancBold;
+   src: url(/assets/fonts/Demo_Fonts/Fontspring-DEMO-coresansc75.otf);
+ }
+ @font-face {
+   font-family: Monsterrat1;
+   src: url(/assets/fonts/static/Montserrat-Black.ttf);
+ }
+ @font-face {
+   font-family: Monsterrat2;
+   src: url(/assets/fonts/static/Montserrat-Light.ttf);
+ }
+ @font-face {
+   font-family: Monsterrat3;
+   src: url(/assets/fonts/static/Montserrat-Medium.ttf);
+ }
+ @font-face {
+   font-family: Monsterrat4;
+   src: url(/assets/fonts/static/Montserrat-Regular.ttf);
+ }
+ @font-face {
+   font-family: Monsterrat5;
+   src: url(/assets/fonts/static/Montserrat-SemiBold.ttf);
+ }
+ @font-face {
+   font-family: Poppins;
+   src: url(/assets/fonts/poppins/Poppins-Light.ttf);
+ }
+ @font-face {
+   font-family: Poppins1;
+   src: url(/assets/fonts/poppins/Poppins-Medium.ttf);
+ }
+ @font-face {
+   font-family: Poppins2;
+   src: url(/assets/fonts/poppins/Poppins-Regular.ttf);
+ }
+ @font-face {
+   font-family: Poppins3;
+   src: url(/assets/fonts/poppins/Poppins-SemiBold.ttf);
+ }
+ 
